@@ -21,7 +21,7 @@
 
 <div align="center">
   <sub> Made with 💖 by
-    <a href="https://github.com/Gabriel9Stresser">Leonne Brito.
+    <a href="https://github.com/Gabriel9Stresser">Gabriel Stresser.
   </sub>
 </div>
 
